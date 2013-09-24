@@ -1,0 +1,15 @@
+BINARY SEARCH(A[], p, r, n) 
+	IF p < r
+		RETURN 0;
+		
+	IF A[p] = n 
+		RETURN p; 
+			
+	int q = floor((p+r)/2);
+	
+	IF A[q] == n 
+		RETURN q;
+	ELSE IF A[q] > n 
+		BINARY SEARCH(A[], p, q-1, n);
+	ELSE 
+		BINARY SEARCH(A[], q+1, r, n);
