@@ -1,5 +1,5 @@
 BINARY SEARCH(A[], p, r, n) 
-	IF p < r
+	IF p > r
 		RETURN 0;
 		
 	IF A[p] = n 
