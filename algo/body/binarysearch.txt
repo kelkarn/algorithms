@@ -1,0 +1,26 @@
+algorithm BINARY SEARCH (A, t)
+input:	A - sorted array of numbers to search in
+		t - target number to search for in A
+output: index position of the position of t in A. -1 if not found
+
+IF A.length = 0 THEN 
+	RETURN -1
+
+p <-- 1
+q <-- A.length
+
+mid <-- ceil((q - p)/2)
+
+WHILE p <= q
+	IF A[p + mid] > t THEN
+		q = q - mid
+	ELSE IF A[p + mid] < t THEN
+		p = p + mid
+	ELSE
+		RETURN p + mid
+	mid <-- ceil((q - p)/2)
+
+RETURN -1
+
+
+	
