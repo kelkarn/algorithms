@@ -1,0 +1,17 @@
+algorithm STRING ENCODING (S)
+input:	S - input string with no two single characters adjacent to each other. 
+			Also, #(characters with single occurrence) <= #(characters with >= 3 contiguous occurrences)
+output:	string that encodes the letters and their occurrence within S 
+
+// example 1: S = "aabccc"
+//			  output = "a2b1c3"
+// example 2: S = "aaabbbbddaadccc"
+//			  output = "a3b4d2a2d1c3"
+// example 3: S = null 
+//			  output = null 
+
+IF S.length = 0 OR S = null THEN 
+	RETURN null
+
+curr <-- 1, toModify <-- 0
+cnt <-- 1, memChar <-- S[curr]
