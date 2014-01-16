@@ -1,6 +1,7 @@
 Welcome! This repository consists of some commonly used algorithms, their explanations and some working (java)code 
-to back these explanations. As of 5:38AM 01/12/2014, this repository consists of the following algorithms: 
--- binary search 
+to back these explanations. As of 12:38AM 01/16/2014, this repository consists of the following algorithms: 
+-- binary search algorithm
+-- string encoding algorithm
 
 Note: The above list will be periodically updated. To see the actual list of algorithms included in this folder, see 
 ./algo/body 
