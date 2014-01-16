@@ -15,3 +15,67 @@ IF S.length = 0 OR S = null THEN
 
 curr <-- 1, toModify <-- 0
 cnt <-- 1, memChar <-- S[curr]
+
+WHILE (curr <= S.length) 
+	IF curr < S.length AND S[curr] = memChar THEN
+		cnt <-- cnt + 1
+	
+	IF curr = S.length OR S[curr] != memChar
+			S[toModify] = memChar	// load in last character in memory
+			toModify <-- toModify + 1
+			numDigits = CALCULATE NUM DIGITS (cnt)	// find number of digits in the count of this letter
+			
+			IF curr < S.length 
+				memChar = S[curr]	// store current letter as next one in memory
+			
+			tempCnt <-- cnt
+			tempNumDigits <-- numDigits 
+			
+			WHILE tempNumDigits > 0	
+				s[toModify + tempNumDigits - 1] <-- tempCnt%10 + '0'	// overwrite input string - save space
+                tempCnt <-- tempCnt/10
+                tempNumDigits <-- tempNumDigits - 1
+			
+			cnt <-- 1							// reset counter for next letter
+			toModify <-- toModify + numDigits	// set this variable to point at next char to modify 
+	
+	curr <-- curr + 1
+
+RETURN SUBSTRING(S, 0, toModify)	// return relevant sub string 
+
+
+algorithm CALCULATE NUM DIGITS (cnt)
+input:	cnt - an integer that has x number of digits
+output:	number of digits in cnt - x
+
+numDigits <-- 0
+
+WHILE cnt != 0 
+	numDigits <-- numDigits + 1
+    cnt <-- cnt/10
+
+RETURN numDigits	
+
+
+algorithm SUBSTRING(S, start, end)
+input:	S - input string 
+		start - index to start taking the sub string from in S
+		end - index to terminate sub string in S 
+output:	A string that is the same as the sub string between start and end in string S 
+
+// example 1: SUBSTRING("abcdef", 2, 4) = "cde"
+// example 2: SUBSTRING("", 2, 3) = null 
+// example 3: SUBSTRING(null, 1, 4) = null 
+// example 4: SUBSTRING("abc", 2, 3) = null
+// example 5: SUBSTRING("abcd", 3, 1) = null
+// as additional debugging help, an error message can be printed out for each of 
+// the above cases where a null is returned 
+// 
+// this algorithm is given for an implementation in C/C++, and hence, is in place.
+// In languages like Java, an array copy is inevitable
+
+FOR i <-- 0, i <= (end - start), i <-- i + 1 
+	S[i] <-- S[start + i]
+
+S[end - start + 1] <-- '\0'	// set to char array terminating character 
+RETURN S

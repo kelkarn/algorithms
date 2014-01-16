@@ -27,20 +27,15 @@ public class EncodeString {
                     cnt++;
                 }
             if((curr == s.length) || (s[curr] != memChar)) {  // change of char - will have to encode
-                int tempCnt = cnt;                            // uses lazy evaluation!
-                int numDigits = 0;
+                                                              // uses lazy evaluation!
                 s[toModify] = memChar;
                 toModify = toModify + 1;    // increment for writing #times this char occurred
-                // count the digits to write
-                while(tempCnt != 0) {
-                    numDigits++;
-                    tempCnt = tempCnt/10;
-                }
+                int numDigits = getNumDigits(cnt);
 
                 if(curr < s.length)
                     memChar = s[curr];   // switch memChar to be newly found char
 
-                tempCnt = cnt;
+                int tempCnt = cnt;
                 int tempNumDigits = numDigits;
                 // write the actual digits
                 while(tempNumDigits > 0) {
@@ -58,4 +53,14 @@ public class EncodeString {
         return Arrays.copyOfRange(s, 0, toModify);
     }
 
+    private static int getNumDigits(int count) {
+
+        int numDigits = 0;
+        // count the digits to write
+        while(count != 0) {
+            numDigits++;
+            count = count/10;
+        }
+        return numDigits;
+    }
 }
