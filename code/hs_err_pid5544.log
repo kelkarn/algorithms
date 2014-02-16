@@ -143,7 +143,7 @@ Dynamic libraries:
 
 VM Arguments:
 jvm_args: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:65436,suspend=y,server=n -ea -Dfile.encoding=UTF-8 
-java_command: com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 org.nkelkar.algorithm.stringencoding.EncodeStringTest,testStringEncoding
+java_command: com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 org.nkelkar.algorithm.string.stringencoding.EncodeStringTest,testStringEncoding
 Launcher Type: SUN_STANDARD
 
 Environment Variables:

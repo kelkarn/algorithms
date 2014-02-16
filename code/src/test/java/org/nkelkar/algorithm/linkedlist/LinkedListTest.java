@@ -14,9 +14,8 @@ public class LinkedListTest {
     public void testLinkedList() {
         LinkedList<Integer> myLinkedList = new LinkedList<Integer>(new Integer[] {2, 3, 5, 7, 11, 13});
 
-        Element<Integer> myInt = myLinkedList.get(1);
-        myLinkedList.delete( myInt );
-        myLinkedList.printList();
+        //Element<Integer> myInt = myLinkedList.get(1);
+        //myLinkedList.delete( myInt );
         //System.out.println("integer: " + myInt);
         /*
         LinkedList<Integer> number1 = new LinkedList<Integer>(new Integer[] {9, 0});
@@ -27,5 +26,7 @@ public class LinkedListTest {
         results.reverseList();
         results.printList();
         */
+        myLinkedList.reverseEveryK(3);
+        myLinkedList.printList();
     }
 }

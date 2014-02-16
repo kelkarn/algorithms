@@ -42,7 +42,7 @@ public class LinkedList<T extends Comparable<? super T>> {
 
     private Element<T> reverseList(Element<T> head) {
         if(head.getNext() == null) {
-            this.head = head;
+            //this.head = head;
             return head;
         }
         Element<T> curr = reverseList(head.getNext());
@@ -137,5 +137,31 @@ public class LinkedList<T extends Comparable<? super T>> {
             prevResult.setNext( null );
     }
 
+    public Element<T> reverseEveryK(int k) {
+        Element<T> currHead = head; // to iterate
+        Element<T> iterator = head;
+        Element<T> tempIterator = iterator;
+        Element<T> prevHead = null;
+        int len = 1;
+        while(iterator.getNext() != null) {
+            if(len%k == 0 || iterator.getNext().getNext() == null) {
+                //iterator = (iterator.getNext().getNext() == null)?iterator.getNext():iterator;
+                tempIterator = iterator.getNext();  // store next in chain
+                iterator.setNext( null );   // make this the new tail
+                Element<T> kListTail = reverseList(currHead); // tail end recursion
+                kListTail.setNext( prevHead );
+                prevHead = iterator;
+                currHead = tempIterator;
+                iterator = tempIterator;    // move to next element
+            }
+            else {
+                iterator = iterator.getNext();
+            }
+            len++;
+        }
 
+        tempIterator.setNext( prevHead );
+        this.head = tempIterator;   // for printing entire list
+        return tempIterator;
+    }
 }

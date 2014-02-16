@@ -12,8 +12,9 @@ public class BinarySearchTree<T extends Comparable<T>> extends BinaryTree<T> {
 
 
     public BinarySearchTree(Node<T> root) {
-        this.root = root;   // tree copy constructor
+        this.root = root;   // tree shallow-copy constructor
     }
+
     /**
      * this constructor assumes a
      * sorted array as input

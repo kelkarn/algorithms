@@ -14,11 +14,37 @@
     <file path="/Element.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1390803397817" ignored="false" />
     <file path="/MergeSortedLLTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1390786937416" ignored="false" />
     <file path="/Dummy.txt" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1390788227607" ignored="false" />
-    <file path="/fragment.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391049463602" ignored="false" />
-    <file path="/LinkedList.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391051065886" ignored="false" />
-    <file path="/LinkedListTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391051177442" ignored="false" />
-    <file path="/BinarySearchTree.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391882182884" ignored="false" />
+    <file path="/fragment.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392103731563" ignored="false" />
+    <file path="/LinkedList.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392584714745" ignored="false" />
+    <file path="/LinkedListTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392583630625" ignored="false" />
+    <file path="/BinarySearchTree.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392587018375" ignored="false" />
     <file path="/BinarySearchTreeTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391882212060" ignored="false" />
+    <file path="/NumIdxRetrieval.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391904962757" ignored="false" />
+    <file path="/NumIdxRetrievalTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391903442112" ignored="false" />
+    <file path="/MissingFromSequence.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391958561481" ignored="false" />
+    <file path="/MissingFromSequenceTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391923692471" ignored="false" />
+    <file path="/WordIsomorphism.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391970010906" ignored="false" />
+    <file path="/WordIsomorphismTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1391970787952" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/boggle/src/main/org/nkelkar/util/graph/Vertex.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392106315003" ignored="false" />
+    <file path="/Vertex.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392106184820" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/boggle/src/main/org/nkelkar/util/graph/api/GenericGraph.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392100865805" ignored="false" />
+    <file path="/GenericGraph.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392111016415" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/boggle/src/main/org/nkelkar/util/graph/api/AbstractGenericGraph.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392100966007" ignored="false" />
+    <file path="/AbstractGenericGraph.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392110863313" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/boggle/src/main/org/nkelkar/util/graph/api/abs/AbstractGenericGraph.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392111233875" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/boggle/src/main/org/nkelkar/util/graph/api/ifc/GenericGraph.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392111017196" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/boggle/src/main/org/nkelkar/boggle/helper/BoggleGraph.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392497312383" ignored="false" />
+    <file path="/BoggleGraph.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392497306990" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/boggle/src/main/org/nkelkar/boggle/helper/BoggleVertex.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392109369780" ignored="false" />
+    <file path="/BoggleVertex.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392109336163" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/boggle/src/test/org/nkelkar/boggle/helper/BoggleVertexMapTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392109415017" ignored="false" />
+    <file path="/BoggleVertexMapTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392109392785" ignored="false" />
+    <file path="/StringMatchWithWildCards.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392446435980" ignored="false" />
+    <file path="/StringMatchWithWildCardsTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392445455661" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/boggle/src/test/org/nkelkar/boggle/helper/BoggleGraphAdjListTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392497155328" ignored="false" />
+    <file path="/BoggleGraphAdjListTest.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392497152430" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/boggle/src/main/org/nkelkar/util/tree/trie/TrieNode.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392498820423" ignored="false" />
+    <file path="/TrieNode.java" changelist="ac3f22ab-7074-452d-94a0-87a9041039ef" time="1392498718616" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +96,38 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/wordmapping/WordIsomorphism.java" line="19" class="org.nkelkar.algorithm.string.wordmapping.WordIsomorphism" package="org.nkelkar.algorithm.string.wordmapping">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/wordmapping/WordIsomorphism.java" line="35" class="org.nkelkar.algorithm.string.wordmapping.WordIsomorphism" package="org.nkelkar.algorithm.string.wordmapping">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -79,48 +137,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Node.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/util/Node.java">
+      <file leaf-file-name="WordIsomorphism.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/wordmapping/WordIsomorphism.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="15" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/BinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="8" selection-start="2335" selection-end="2335" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinarySearchTreeTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/binary/bst/BinarySearchTreeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="0" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.53741497">
-              <folding>
-                <element signature="e#1830#1839#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinarySearchTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/bst/BinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="36" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSortedLL.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/linkedlist/sorting/MergeSortedLL.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="0" selection-start="4268" selection-end="4449" vertical-scroll-proportion="0.0">
+            <state line="11" column="7" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -135,10 +155,46 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="BinarySearch.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/binarysearch/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="10" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringMatchWithWildCards.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/stringmatch/patternmatch/StringMatchWithWildCards.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="6" selection-start="2244" selection-end="2244" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="LinkedList.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/linkedlist/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="23" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
+            <state line="153" column="9" selection-start="5107" selection-end="5107" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTree.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="8" selection-start="2335" selection-end="2335" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearchTree.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/bst/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="33" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.9351145">
               <folding />
             </state>
           </provider>
@@ -147,25 +203,25 @@
       <file leaf-file-name="LinkedListTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/linkedlist/LinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="8" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+            <state line="29" column="32" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeSortedLLTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/linkedlist/sorting/MergeSortedLLTest.java">
+      <file leaf-file-name="StringMatchWithWildCardsTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/string/stringmatch/patternmatch/StringMatchWithWildCardsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="22" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
+            <state line="16" column="32" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Element.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/linkedlist/sorting/util/Element.java">
+      <file leaf-file-name="WordIsomorphismTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/string/wordmapping/WordIsomorphismTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
+            <state line="10" column="0" selection-start="161" selection-end="477" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -181,19 +237,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/binarysearch/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/binarysearch/BinarySearchTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/stringencoding/EncodeStringTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/stringencoding/EncodeString.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/linkedlist/sorting/MergeSortedLLTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/linkedlist/sorting/MergeSortedLL.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/linkedlist/sorting/util/Element.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/linkedlist/LinkedListTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/linkedlist/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/util/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/bst/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/binary/bst/BinarySearchTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/string/concatenatednums/NumIdxRetrievalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/concatenatednums/NumIdxRetrieval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/missingnumber/MissingFromSequence.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/string/missingnumber/MissingFromSequenceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/wordmapping/WordIsomorphism.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/string/wordmapping/WordIsomorphismTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/string/stringmatch/patternmatch/StringMatchWithWildCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/stringmatch/patternmatch/StringMatchWithWildCards.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/linkedlist/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/linkedlist/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/bst/BinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -227,8 +286,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -280,42 +339,12 @@
               <option name="myItemId" value="algorithm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
+              <option name="myItemId" value="string" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nkelkar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linkedlist" />
+              <option name="myItemId" value="wordmapping" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -353,11 +382,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="linkedlist" />
+              <option name="myItemId" value="string" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sorting" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nkelkar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linkedlist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -573,52 +636,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nkelkar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="binary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="bst" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -657,44 +674,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nkelkar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linkedlist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -712,14 +691,36 @@
     <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.BinarySearchTreeTest.testTreeCopy">
-    <configuration default="false" name="BinarySearchTreeTest.testBinarySearchTree" type="JUnit" factoryName="JUnit" temporary="true">
+  <component name="RunManager" selected="JUnit.LinkedListTest.testLinkedList">
+    <configuration default="false" name="NumIdxRetrievalTest.testNumIdxRetrieval" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="algorithms" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.nkelkar.algorithm.binary.bst" />
-      <option name="MAIN_CLASS_NAME" value="org.nkelkar.algorithm.binary.bst.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="testBinarySearchTree" />
+      <option name="PACKAGE_NAME" value="org.nkelkar.algorithm.string.concatenatednums" />
+      <option name="MAIN_CLASS_NAME" value="org.nkelkar.algorithm.string.concatenatednums.NumIdxRetrievalTest" />
+      <option name="METHOD_NAME" value="testNumIdxRetrieval" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MissingFromSequenceTest.testMissingFromSequenceTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="algorithms" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.nkelkar.algorithm.string.missingnumber" />
+      <option name="MAIN_CLASS_NAME" value="org.nkelkar.algorithm.string.missingnumber.MissingFromSequenceTest" />
+      <option name="METHOD_NAME" value="testMissingFromSequenceTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -741,35 +742,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="BinarySearchTreeTest.testIsBinarySearchTree" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="WordIsomorphismTest.testWordIsomorphism" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="algorithms" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.nkelkar.algorithm.binary.bst" />
-      <option name="MAIN_CLASS_NAME" value="org.nkelkar.algorithm.binary.bst.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="testIsBinarySearchTree" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BinarySearchTreeTest.testBinaryTreeInsert" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="algorithms" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.nkelkar.algorithm.binary.bst" />
-      <option name="MAIN_CLASS_NAME" value="org.nkelkar.algorithm.binary.bst.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="testBinaryTreeInsert" />
+      <option name="PACKAGE_NAME" value="org.nkelkar.algorithm.string.wordmapping" />
+      <option name="MAIN_CLASS_NAME" value="org.nkelkar.algorithm.string.wordmapping.WordIsomorphismTest" />
+      <option name="METHOD_NAME" value="testWordIsomorphism" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -791,13 +770,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="BinarySearchTreeTest.testIsSymmetric" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="StringMatchWithWildCardsTest.testMatchStrings" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="algorithms" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.nkelkar.algorithm.binary.bst" />
-      <option name="MAIN_CLASS_NAME" value="org.nkelkar.algorithm.binary.bst.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="testIsSymmetric" />
+      <option name="PACKAGE_NAME" value="org.nkelkar.algorithm.string.stringmatch.patternmatch" />
+      <option name="MAIN_CLASS_NAME" value="org.nkelkar.algorithm.string.stringmatch.patternmatch.StringMatchWithWildCardsTest" />
+      <option name="METHOD_NAME" value="testMatchStrings" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -809,17 +788,23 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="BinarySearchTreeTest.testTreeCopy" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="LinkedListTest.testLinkedList" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="algorithms" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.nkelkar.algorithm.binary.bst" />
-      <option name="MAIN_CLASS_NAME" value="org.nkelkar.algorithm.binary.bst.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="testTreeCopy" />
+      <option name="PACKAGE_NAME" value="org.nkelkar.algorithm.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="org.nkelkar.algorithm.linkedlist.LinkedListTest" />
+      <option name="METHOD_NAME" value="testLinkedList" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -831,7 +816,13 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -924,19 +915,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest.testBinarySearchTree" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest.testIsBinarySearchTree" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest.testBinaryTreeInsert" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest.testIsSymmetric" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest.testTreeCopy" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.NumIdxRetrievalTest.testNumIdxRetrieval" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MissingFromSequenceTest.testMissingFromSequenceTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.WordIsomorphismTest.testWordIsomorphism" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.StringMatchWithWildCardsTest.testMatchStrings" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.LinkedListTest.testLinkedList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest.testTreeCopy" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest.testIsSymmetric" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest.testBinaryTreeInsert" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest.testIsBinarySearchTree" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest.testBinarySearchTree" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LinkedListTest.testLinkedList" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.StringMatchWithWildCardsTest.testMatchStrings" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.WordIsomorphismTest.testWordIsomorphism" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MissingFromSequenceTest.testMissingFromSequenceTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.NumIdxRetrievalTest.testNumIdxRetrieval" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -945,6 +936,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ac3f22ab-7074-452d-94a0-87a9041039ef" name="Default" comment="" />
@@ -954,7 +962,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="1" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -970,11 +978,11 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29601228" sideWeight="0.5971979" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4028021" sideWeight="0.8412577" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32285276" sideWeight="0.61996496" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.380035" sideWeight="0.8412577" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924694" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1044,71 +1052,56 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/binarysearch/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="18" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="8" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/binarysearch/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/stringencoding/EncodeStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="23" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/stringencoding/EncodeString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="94" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/linkedlist/sorting/MergeSortedLLTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="22" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/linkedlist/sorting/MergeSortedLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="0" selection-start="4268" selection-end="4449" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/linkedlist/sorting/util/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/linkedlist/LinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/util/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="15" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
+        <state line="27" column="15" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/binary/bst/BinarySearchTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="40" selection-start="1755" selection-end="1755" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/string/concatenatednums/NumIdxRetrievalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="56" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/concatenatednums/NumIdxRetrieval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/string/missingnumber/MissingFromSequenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/missingnumber/MissingFromSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/wordmapping/WordIsomorphism.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="7" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/string/wordmapping/WordIsomorphismTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="161" selection-end="477" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1120,9 +1113,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/binarysearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="10" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/string/stringmatch/patternmatch/StringMatchWithWildCardsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="32" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/string/stringmatch/patternmatch/StringMatchWithWildCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="6" selection-start="2244" selection-end="2244" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/linkedlist/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="32" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/linkedlist/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="23" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
+        <state line="153" column="9" selection-start="5107" selection-end="5107" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1136,17 +1157,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/nkelkar/algorithm/tree/binary/bst/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="36" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
+        <state line="45" column="33" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.9351145">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/nkelkar/algorithm/binary/bst/BinarySearchTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.53741497">
-          <folding>
-            <element signature="e#1830#1839#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
