@@ -1,0 +1,14 @@
+This is a list of corrections to the binarysearch_exp.pdf explanation file. 
+In the explanation, search for the text: "is just a more mathematical way of writing ceil(n/2)"
+This should be "is just a more mathematical way of writing floor(n/2)"
+
+Similarly, search for the text: "hint: The ceil(x) has a property" 
+This should be "hint: The floor(x) has a property"
+
+Sorry for the erroneous typing! I'm currently working on re-drafting the binarysearch_exp.pdf document and will soon 
+upload a more correct version.
+
+Thanks for tuning in! 
+
+Best Regards,
+Nishant Kelkar
