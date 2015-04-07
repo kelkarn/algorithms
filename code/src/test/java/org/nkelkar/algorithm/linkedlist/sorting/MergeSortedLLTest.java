@@ -11,7 +11,7 @@ public class MergeSortedLLTest {
 
     @Test
     public void testMergeSortedLL() {
-        MergeSortedLL<Integer> myLinkedList = new MergeSortedLL<Integer>(new Integer[] {3, 5, 7, 11, 14, 15, 9});
+        MergeSortedLL<Integer> myLinkedList = new MergeSortedLL<Integer>(new Integer[] {3, 5, 7, 11, 14, 15, 9, 10});
         myLinkedList.mergeSortList();   // sort
         myLinkedList.printList();
     }
