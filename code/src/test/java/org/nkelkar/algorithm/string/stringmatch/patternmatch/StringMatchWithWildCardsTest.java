@@ -1,6 +1,6 @@
 package org.nkelkar.algorithm.string.stringmatch.patternmatch;
 
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 
 /**

@@ -1,6 +1,6 @@
 package org.nkelkar.algorithm.binary.bst;
 
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 import org.nkelkar.algorithm.tree.binary.bst.BinarySearchTree;
 import org.nkelkar.algorithm.tree.binary.util.Node;
@@ -23,7 +23,7 @@ public class BinarySearchTreeTest {
     public void testIsBinarySearchTree() {
         BinarySearchTree<Integer> myTree = new BinarySearchTree<Integer>(new Integer[] {1, 2, 4, 5, 6});
         Assert.assertTrue("failure - the tree created was not a binary search tree as expected",
-                          myTree.isBinarySearchTree(Integer.MIN_VALUE, Integer.MAX_VALUE));
+                myTree.isBinarySearchTree(Integer.MIN_VALUE, Integer.MAX_VALUE));
     }
 
     @Test

@@ -1,6 +1,6 @@
 package org.nkelkar.algorithm.string.concatenatednums;
 
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 
 /**

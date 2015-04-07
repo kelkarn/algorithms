@@ -3,7 +3,7 @@ package org.nkelkar.algorithm.linkedlist;
 import org.nkelkar.algorithm.linkedlist.sorting.util.Element;
 
 /**
- * User: dell
+ * Author: Nishant Kelkar
  * Date: 1/26/14
  * Time: 9:22 PM
  */

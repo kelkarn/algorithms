@@ -1,6 +1,6 @@
 package org.nkelkar.algorithm.string.wordmapping;
 
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 
 /**
